@@ -11,13 +11,15 @@ the main parts of the project are
 
 ![PICR](https://user-images.githubusercontent.com/16267182/35386191-d835556a-01d3-11e8-9592-e991100e1568.png)
 
+Check the Design on [GrabCAD ](https://grabcad.com/library/pipe-inspection-and-cleaning-robot-1)
+
 ## Over All Front Panel
 The Overall Controlling Panel which allows you to control Camera, Motors Motion and IMU 
 
 ![all](https://user-images.githubusercontent.com/16267182/35386002-0919097a-01d3-11e8-8fad-537547fae273.PNG)
 
 ## Camera Front Panel
-![capture](https://user-images.githubusercontent.com/16267182/35386088-5f5e7996-01d3-11e8-9c53-1044555ecd55.PNG)
+![camera](https://user-images.githubusercontent.com/16267182/35386088-5f5e7996-01d3-11e8-9c53-1044555ecd55.PNG)
 
 ## Motors Front Panel
 ![motion_ui](https://user-images.githubusercontent.com/16267182/35386102-7600f1b0-01d3-11e8-9bf3-e445b99afbb6.PNG)
