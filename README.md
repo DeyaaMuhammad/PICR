@@ -46,3 +46,7 @@ The Overall Controlling Panel which allows you to control Camera, Motors Motion 
 
 # Warning 
 This software written using LabVIEW 2013. You may not be able to open this file on a different version of LabVIEW. 
+
+# Contribution
+Want to contribute? What are you waiting for? Fork it and hit up with a pull request.
+Mail me at contact@deyaa.me
