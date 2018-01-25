@@ -1,5 +1,5 @@
 # PIPE INSPECTION AND CLEANING ROBOT
-PIPE LINE INSPECTION AND CLEANING ROBOT Labview Software
+Piep Line Inspection and Cleaning Robot Labview Software
 
 # What are you controlling?
 a robot that has the ability of achieving a non-destructive in-line pipeline inspection and maintenance.
