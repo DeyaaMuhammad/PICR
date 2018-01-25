@@ -3,6 +3,11 @@ PIPE LINE INSPECTION AND CLEANING ROBOT Labview Software
 
 # What are you controlling?
 a robot that has the ability of achieving a non-destructive in-line pipeline inspection and maintenance.
+the main parts of the project are 
+- 6 motion motors.
+- 1 brush motor.
+- camera w/ night vision.
+- reading IMU different sensors.
 
 ![PICR](https://user-images.githubusercontent.com/16267182/35386191-d835556a-01d3-11e8-9592-e991100e1568.png)
 
@@ -19,3 +24,20 @@ The Overall Controlling Panel which allows you to control Camera, Motors Motion 
 
 ## IMU Front Panel
 ![imu 3dview](https://user-images.githubusercontent.com/16267182/35386119-82b00f36-01d3-11e8-9c04-8ea620ba93a0.PNG)
+
+## Project Team
+- Deyaa al-Din Muhammad Ahmad
+- Ahmed Mohamed khalil
+- Mohamed Hassan Mohamed
+- Mohamed Yossri Awad
+- El-Sayed Ahmad El-Sayed
+- Samy Mahmoud Mostafa
+- Hossam Eldien Korany
+- Mohamed Mohamed Mahmoud
+- Mostafa Ali El-Sayed
+
+## Thanks
+- Dr. Sameh Farid
+- Mr. Mustafa Abd-Elkarem
+- Eng. Ahmed Ismael
+- Eng. Mahmoud El-Shobary
