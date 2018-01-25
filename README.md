@@ -2,7 +2,7 @@
 Piep Line Inspection and Cleaning Robot Labview Software
 
 # What Are You Controlling?
-a robot that has the ability of achieving a non-destructive in-line pipeline inspection and maintenance.
+A robot that has the ability of achieving a non-destructive in-line pipeline inspection and maintenance.
 the main parts of the project are 
 - 6 motion motors.
 - 1 brush motor.
